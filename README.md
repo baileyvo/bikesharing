@@ -18,7 +18,7 @@ A number of visualizations were created, including:
 - Starting and ending locations of trips
 
 ### Tableau Story
-The Tableau story visualization is available here: ![Tableau Story](https://public.tableau.com/shared/8WCC4RJR3?:display_count=n&:origin=viz_share_link).
+The Tableau story visualization is available here: [Tableau Story](https://public.tableau.com/shared/8WCC4RJR3?:display_count=n&:origin=viz_share_link).
 
 **Summary of Fare Differences by City Type**
 
