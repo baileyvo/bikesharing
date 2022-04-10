@@ -5,7 +5,7 @@
 The purpose of this analysis is to demonstrate to investors that a bike-sharing program in Des Moines would be a solid business proposal, by doing analysis of the program in New York City, and seeing what trends emerge that could be used to ensure the Des Moines program is successful.
 
 ### Resources
-- Data Source: P![Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data)- 201908-citibike-tripdata.csv.zip
+- Data Source: [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data)- 201908-citibike-tripdata.csv.zip
 - Software: Tableau Public
 
 ## Results
